@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/SRatnaT/QR-Code-Component.git/static/css/main.1d461d53.css",
+    "main.js": "/SRatnaT/QR-Code-Component.git/static/js/main.42ad0ef5.js",
+    "static/js/453.c89cfa50.chunk.js": "/SRatnaT/QR-Code-Component.git/static/js/453.c89cfa50.chunk.js",
+    "static/media/logo.svg": "/SRatnaT/QR-Code-Component.git/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/SRatnaT/QR-Code-Component.git/index.html",
+    "main.1d461d53.css.map": "/SRatnaT/QR-Code-Component.git/static/css/main.1d461d53.css.map",
+    "main.42ad0ef5.js.map": "/SRatnaT/QR-Code-Component.git/static/js/main.42ad0ef5.js.map",
+    "453.c89cfa50.chunk.js.map": "/SRatnaT/QR-Code-Component.git/static/js/453.c89cfa50.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1d461d53.css",
+    "static/js/main.42ad0ef5.js"
+  ]
+}
