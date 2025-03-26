@@ -1,0 +1,1 @@
+![QR-Component](https://github.com/SahilTuladhar/front-end-mentor/blob/QR-component/src/images/QR_component.png)
